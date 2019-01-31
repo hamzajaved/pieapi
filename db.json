@@ -1,0 +1,23 @@
+{
+	"labels": [
+		"Products",
+		"Marketing",
+		"Sales",
+		"Services"
+	],
+	"datasets": [{
+		"data": [25, 25, 25, 25],
+		"backgroundColor": [
+			"#FF6384",
+			"#48A6F2",
+			"#ffbf00",
+			"#00cf3b"
+		],
+		"hoverBackgroundColor": [
+			"#FF6384",
+			"#48A6F2",
+			"#ffbf00",
+			"#00cf3b"
+		]
+	}]
+}
